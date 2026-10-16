@@ -10,6 +10,7 @@ A personal portfolio website built from scratch to showcase my mechanical engine
 
 # Features
 - Home: About me and featured builds (Macropad & Monaco F1 Trophy).
+
 -Projects: Breakdown of my repositories, code, and design files.
 - Contact: Direct links to my GitHub and Email.
 
